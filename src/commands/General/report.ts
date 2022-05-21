@@ -30,5 +30,5 @@ export default class Command extends BaseCommand {
                    From : ${M.groupMetadata?.subject} `,
                 MessageType.text
             );
-            return void M.reply('Sent the bot admin your report To Lord Savage 🕊️ if you used this command for fun you will be banned!!')
+            return void M.reply('Sent the bot admin your report To Ishaan 🕊️ if you used this command for fun you will be banned!!')
         }}
